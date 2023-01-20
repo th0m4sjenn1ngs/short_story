@@ -1,2 +1,2 @@
 # short_story
-This is a github that has a short story written in it.
+This is a github that has a short rhyme written in it.
